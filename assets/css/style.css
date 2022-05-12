@@ -1,0 +1,18 @@
+body, html {
+    background: url(../images/Forest\ \(6000x40000\).jpg);
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+/* Home page trans box */
+.trans-box {
+    background-color: rgba(55, 55, 40, 0.6);
+    height: 150px;
+    width: 350px;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+
