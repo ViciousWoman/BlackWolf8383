@@ -6,6 +6,13 @@ body, html {
     background-size: cover;
 }
 
+
+
+/* nav bar */
+nav {
+    background-color: black;
+}
+
 /* Home page trans box */
 .trans-box {
     background-color: rgba(55, 55, 40, 0.6);
