@@ -16,7 +16,7 @@ body, html {
 nav {
     background-color: black;
     position: relative;
-    overflow: hidden;
+    text-align: center;
 }
 
 li {
@@ -32,11 +32,17 @@ li > a {
     
 }
 
+#nav {
+    margin-left: 0 auto;
+    font-size: 120%;
+}
+
 /* Home page trans box */
 .trans-box {
-    background-color: rgba(55, 55, 40, 0.6);
+    /* background-color: rgba(55, 55, 40, 0.6); */
+    background-color: #274018;
     height: 150px;
-    width: 350px;
+    width: 400px;
     margin: 0 auto;
     color: white;
     text-align: center;
