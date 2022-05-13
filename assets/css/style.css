@@ -23,11 +23,13 @@ li {
     list-style-type: none;
     display: inline-block;
     margin: 10px;
+    
 }
 
 li > a {
     color: #fff;
     text-decoration: none;
+    
 }
 
 /* Home page trans box */
