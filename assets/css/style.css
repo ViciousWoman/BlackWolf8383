@@ -1,13 +1,18 @@
-body {
-    margin: 0;
-}
 
 body {
-    background: url(../images/Forest\ \(6000x40000\).jpg);
-    background-color: black;
+    /* background: url(../images/Forest\ \(6000x40000\).jpg) no-repeat; */
+    background-color: #DBD4B3;
     height: 100%;
     width: 100%;
     background-size: cover;
+    margin: 0;
+}
+
+#home-page {
+    background-color: #DBD4B3
+    position: absolute;
+    width: 100%;
+    height: auto;
 }
 
 h1 {
@@ -15,9 +20,14 @@ h1 {
     color: red;
 }
 
+header {
+    background-color: #131313;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
 /* nav bar */
 nav {
-    background-color: black;
     position: relative;
     text-align: center;
 }
@@ -42,12 +52,28 @@ li > a {
 
 /* Home page trans box */
 .trans-box {
-    /* background-color: rgba(55, 55, 40, 0.6); */
-    background-color: #274018;
-    height: 150px;
+    background-color: rgba(55, 55, 40, 0.6);
+    /* background-color: #7A3932; */
+    height: 200px;
     width: 400px;
     margin: 0 auto;
     color: white;
     text-align: center;
+    position: relative;
+    top: 250px;
 }
 
+/* footer */
+
+footer {
+    height: 50px;
+    width: 100%;
+    background-color: #131313;
+    display: block;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    color: #fff;
+}
+
+/* form */
