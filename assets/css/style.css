@@ -106,3 +106,13 @@ h2 {
   height: 900px;  
  }
 
+ #meet-form {
+     height: fit-content;
+     width: 400px;
+     color: #fff;
+     display: block;
+     position: absolute;
+     margin: 100px 55% ;
+ }
+
+
