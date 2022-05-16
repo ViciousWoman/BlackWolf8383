@@ -1,5 +1,9 @@
+body{
+    padding: 0;
+    margin: 0;
+}
 
-body {
+.forest {
     background: url(../images/Forest\ \(6000x40000\).jpg) no-repeat;
     background-color: #000000;
     height: 100%;
@@ -8,26 +12,23 @@ body {
     margin: 0;
 }
 
-#intro {
+/* home page background */
+#home-page {
     background: url(../images/mathew-schwartz-7YiZKj9A3DM-unsplash.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 900px;
     width: 100%;
+    margin-top: 100px;
 }
+
+
 
 h1 {
     text-align: center;
     color: red;
 }
 
-header {
-    background-color: #000000;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    height: 150px;
-}
 /* nav bar */
 nav {
     position: relative;
@@ -69,10 +70,13 @@ li > a {
 footer {
     height: 50px;
     width: 100%;
+
     background-color: #131313;
+
     display: block;
-    bottom: 0;
     position: fixed;
+    bottom: 0;
+    
     text-align: center;
     color: #fff;
 }
