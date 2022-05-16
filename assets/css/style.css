@@ -57,7 +57,6 @@ li > a {
 /* Home page trans box */
 .trans-box {
     background-color: rgba(55, 55, 40, 0.6);
-    /* background-color: #7A3932; */
     height: 200px;
     width: 400px;
     margin: 250px 15px;
@@ -82,7 +81,24 @@ footer {
     color: #fff;
 }
 
-/* form */
+/* about me */
+.about-me{
+    height: 300px;
+    width: 400px;
+    
+    background-color: rgba(55, 40, 40, 0.6);
+    color: #fff;
+
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* form Borrowed css love running*/
  .form-body {
      background: url(../images/black-wolf.avif) no-repeat;
     background-position: center;
@@ -90,4 +106,3 @@ footer {
   height: 900px;  
  }
 
- 
