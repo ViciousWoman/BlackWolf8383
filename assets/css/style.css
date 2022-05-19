@@ -44,6 +44,18 @@ li > a {
     
 }
 
+li > a:hover {
+    color: #000;
+    background-color: #fff;
+    text-decoration: none;
+    
+}
+
+.active {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
+
 #nav {
     margin-left: 0 auto;
     font-size: 120%;
@@ -132,17 +144,18 @@ footer {
      display: block;
      position: absolute;
 
-     margin: 50px 55% ;
+     margin: 50px 43% ;
      padding: 20px;
 
      background-color: rgba(117, 117, 117, 0.5);
+     border: 2px solid white;
 
      text-align: left;
  }
 
- input label {
-     display: inline-block;
- }   
+ input {
+     display: block;
+ }  
  
 
 
