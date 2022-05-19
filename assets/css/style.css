@@ -50,6 +50,8 @@ li {
 }
 
 li > a {
+    font-family: 'Amiri', sans-serif;
+    font-size: 105%;
     color: #fff;
     text-decoration: none;
     
