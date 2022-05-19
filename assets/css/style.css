@@ -88,7 +88,6 @@ footer {
 
     background-color: #131313;
 
-    display: block;
     position: fixed;
     bottom: 0;
 
@@ -116,6 +115,7 @@ footer {
     width: 100%;
     height: 260px;
     margin: 100px 0;
+    position: relative;
  }
 
  #schedule div {
@@ -128,6 +128,10 @@ footer {
      float: left;
      box-sizing: border-box;
      padding: 10px;
+ }
+
+ #last{
+     margin-bottom: 50px;
  }
 
 /* form Borrowed css love running*/
