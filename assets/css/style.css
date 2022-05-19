@@ -4,25 +4,29 @@ body {
     background-color: #000000;
 }
 
+.forest {
+    background: url(../images/Forest\ \(6000x40000\).jpg) no-repeat;
+    background-color: #000000;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    background-color: #131313;
+    
+}
+
 h2 {
     text-align: center;
 }
-
-/* home page background */
-#intro {
-    background: url(../images/mathew-schwartz-7YiZKj9A3DM-unsplash.jpg) no-repeat;
-    background-color: #000000;
-    background-position: center;
-    background-size: cover;
-    height: 900px;
-    width: 100%;
-}
-
 
 
 h1 {
     text-align: center;
     color: red;
+    margin: 0;
+    padding-top: 20px;
 }
 
 /* nav bar */
@@ -63,7 +67,7 @@ li > a:hover {
 
 /* Home page trans box */
 .trans-box {
-    background-color: rgba(55, 55, 40, 0.6);
+    background-color: rgba(55, 40, 40, 0.6);
     height: 200px;
     width: 400px;
     margin: 250px 15px;
@@ -89,13 +93,6 @@ footer {
 }
 
 /* about me */
-#forest {
-    background: url(../images/Forest\ \(6000x40000\).jpg) no-repeat;
-    background-color: #000000;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-}
 
 .about-me{
     height: 300px;
