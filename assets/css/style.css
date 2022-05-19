@@ -66,14 +66,14 @@ li > a:hover {
 }
 
 /* Home page trans box */
+
 .trans-box {
     background-color: rgba(55, 40, 40, 0.6);
-    height: 200px;
-    width: 400px;
-    margin: 250px 15px;
+    height: 300px;
+    width: 33.3%;
+    margin: 10% auto;
     color: white;
     text-align: center;
-    position: absolute;
 }
 
 /* footer */
