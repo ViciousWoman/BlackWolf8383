@@ -65,6 +65,10 @@ li > a:hover {
     font-size: 120%;
 }
 
+ul {
+    padding: 0;
+}
+
 /* Home page trans box */
 
 .trans-box {
