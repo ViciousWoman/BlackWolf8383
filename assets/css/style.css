@@ -111,14 +111,14 @@ footer {
 
 .about-me{
     font-family: 'Amiri', sans-serif;
-    height: 300px;
+    font-size: 120%;
+    height: 400px;
     width: 400px;
     
     background-color: rgba(55, 40, 40, 0.6);
     color: #fff;
 
     margin: 10% auto;
-    padding: 25px;
     text-align: center;
 }
 
