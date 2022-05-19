@@ -185,7 +185,7 @@ footer {
         height: fit-content;
     }    
 
-    li {
+    #nav > li {
         display: block;
     }
 }
