@@ -187,6 +187,21 @@ footer {
  input, label {
      display: inline-block;
  }
+
+ input, textarea {
+     border: 2px solid #000;
+ }
+
+ input:hover,textarea:hover{
+     border-color: red;
+ }
+
+
+ input[type=submit] {
+     width: 100px;
+     height: 30px;
+     background-color: coral;
+ }
  
  @media screen and (max-width: 1000px) {
 
