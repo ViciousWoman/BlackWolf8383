@@ -160,11 +160,13 @@ footer {
  }
 
  #meet-form {
+    font-family: 'Amiri', sans-serif;
+    font-size: 105%;
      height: fit-content;
      width: 250px;
      color: #fff;
 
-     margin: 30px 40% ;
+     margin: 0 40% 55px;
      padding: 20px;
 
      background-color: rgba(117, 117, 117, 0.5);
