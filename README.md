@@ -63,3 +63,8 @@ The Meet and Greet page features a form where the user can put the First name, L
 It also has three choices of activities and a suggestion area if the user comes up with something that isn't mentioned. 
 
 ### Existing Features
+
+- Header h1 Streams name - Exists on every page.
+- Header Navigation Bar - Exist on every page and allows the user to easily navigate all the pages. 
+- 
+- 
