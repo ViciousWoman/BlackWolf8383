@@ -69,5 +69,20 @@ It also has three choices of activities and a suggestion area if the user comes 
 - Footer Copyright Info - Exists on every page and protects the streamer's copyright.
 - Footer Social Icons - Exists on all pages, and allows the user to access the social platforms the streamer use.
 - [Home Page](index.html) - Gives the user a Welcoming message. 
-- [About Me Page](about.html) - Gives the user information about the streamer.
+- [About Me Page](about.html) - Gives the user information about the streamer and his schedule.
 - [Meet and Greet Page](form.html) - Allows the user to sign up for the Meet and Greet Event
+
+### Features to Implement in future
+- A video page - to showcase short video clips and or highlights from the stream.
+- Merch page - to sell merch to viewers.
+- Subscribers only page - Where we will post events that only subscribers can see and attend
+
+## Technologies Used
+
+- This project uses HTML and CSS programming languages.
+- [Google Fonts](https://fonts.google.com/)
+   - The project uses **Google fonts** to style the website fonts.
+
+   ## Testing 
+
+   
