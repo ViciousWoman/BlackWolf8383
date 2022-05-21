@@ -109,6 +109,11 @@ footer {
     color: #fff;
 }
 
+#cp-text {
+    position: absolute;
+    margin-left: 10px;
+}
+
 /* about me */
 
 .about-me{
