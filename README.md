@@ -82,7 +82,13 @@ It also has three choices of activities and a suggestion area if the user comes 
 - This project uses HTML and CSS programming languages.
 - [Google Fonts](https://fonts.google.com/)
    - The project uses **Google fonts** to style the website fonts.
+- This project use [Grammarly](https://app.grammarly.com/) to check for spelling mistakes
 
    ## Testing 
 
-   
+The developer used W3C CSS Validation Service and W3C Markup Validation Service to check the validity of the website code.
+
+- Tested style.css, - Found one Error That has been corrected.
+- Tested about.html - No Errors or warnings were found. 
+- Tested form.html - Found one Error That has been corrected.
+- 
