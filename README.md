@@ -106,6 +106,10 @@ To deploy this page to GitHub Pages from its [GitHub repository](https://github.
 6. the website is now deployed. 
 7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
 
+### Clone
+
+To run locally, You can clone this project by pasting ' git clone https://github.com/ViciousWoman/BlackWolf8383.git into your terminal.  To cut ties with this GitHub repository, type `git remote rm origin` into the terminal.
+
 ## Credits
 
 ### Images
@@ -121,3 +125,4 @@ To deploy this page to GitHub Pages from its [GitHub repository](https://github.
 ### Acknowledgements
 
 - I received inspiration for the schedule from the Love Running challenge.
+- I I recived insperation on how to write my README.md from [Anna](https://github.com/AJGreaves/portrait-artist/blob/master/README.md)
