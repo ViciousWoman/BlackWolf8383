@@ -91,4 +91,33 @@ The developer used W3C CSS Validation Service and W3C Markup Validation Service 
 - Tested style.css, - Found one Error That has been corrected.
 - Tested about.html - No Errors or warnings were found. 
 - Tested form.html - Found one Error That has been corrected.
-- 
+- Tested index.html - No Errors or warnings were found.
+
+## Deployment
+
+This project was developed using the [GitPod](https://gitpod.io/), committed to git and pushed to GitHub. 
+
+To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/ViciousWoman/BlackWolf8383), the following steps were taken: 
+1. Log into GitHub. 
+2. From the list of repositories on the screen, select **ViciousWoman/BlackWolf8383**.
+3. From the menu items near the top of the page, select **Settings**.
+4. Scroll down to the **GitHub Pages** section.
+5. Under **Source** click the drop-down menu labelled **None** and select **Main**
+6. the website is now deployed. 
+7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
+
+## Credits
+
+### Images
+
+- [Meet & Greet Page](form.html) background image was taken from - [Unsplash](https://unsplash.com/photos/-hWwL0n3_As)
+- [Home Page](index.html) and [About Me Page](about.html) background image was taken from - [Unsplash](https://unsplash.com/photos/sp-p7uuT0tw)
+
+### Code
+
+- The RGB color for the schedule was taken from Code institute Love Running challenge.
+- w3schools were used thrugh out the project.
+
+### Acknowledgements
+
+- I received inspiration for the schedule from the Love Running challenge.
