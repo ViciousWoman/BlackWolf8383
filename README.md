@@ -66,5 +66,8 @@ It also has three choices of activities and a suggestion area if the user comes 
 
 - Header h1 Streams name - Exists on every page.
 - Header Navigation Bar - Exist on every page and allows the user to easily navigate all the pages. 
-- 
-- 
+- Footer Copyright Info - Exists on every page and protects the streamer's copyright.
+- Footer Social Icons - Exists on all pages, and allows the user to access the social platforms the streamer use.
+- [Home Page](index.html) - Gives the user a Welcoming message. 
+- [About Me Page](about.html) - Gives the user information about the streamer.
+- [Meet and Greet Page](form.html) - Allows the user to sign up for the Meet and Greet Event
