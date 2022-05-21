@@ -88,9 +88,9 @@ It also has three choices of activities and a suggestion area if the user comes 
 
 The developer used W3C CSS Validation Service and W3C Markup Validation Service to check the validity of the website code.
 
-- Tested style.css, - Found one Error That has been corrected.
+- Tested style.css, - Found one Error - margin-left with two values, I had forgotten to delete it.
 - Tested about.html - No Errors or warnings were found. 
-- Tested form.html - Found one Error That has been corrected.
+- Tested form.html - Found one Error - Form had no h2 h3 or h4 in it.
 - Tested index.html - No Errors or warnings were found.
 
 ## Deployment
